@@ -1,0 +1,28 @@
+button {
+    font-size: 200%;
+    width: 40px;
+    }
+    
+    input {
+    font-size: 14px;
+    height: 40px;
+    text-align: right;
+    }
+    
+    
+    
+    .num-button:hover {
+      background-color: rgb(227, 248, 255);
+    }
+    
+    .clear-button:hover {
+      background-color: rgb(254, 146, 146);
+    }
+    
+    .equals-button:hover {
+      background-color: rgb(156, 255, 151);
+    }
+    
+    .function-button:hover {
+      background-color: rgb(255, 248, 188);
+    }
